@@ -58,15 +58,15 @@
 
         <LinearLayout
             android:layout_width="346dp"
-            android:layout_height="123dp"
+            android:layout_height="171dp"
             android:gravity="bottom|end"
             android:orientation="horizontal"
             android:padding="5dp">
 
             <ImageView
                 android:id="@+id/img_Add"
-                android:layout_width="78dp"
-                android:layout_height="65dp"
+                android:layout_width="89dp"
+                android:layout_height="70dp"
                 android:contentDescription="@string/todo_3"
                 app:srcCompat="@drawable/add_mark"
                 tools:srcCompat="@drawable/add_mark" />
